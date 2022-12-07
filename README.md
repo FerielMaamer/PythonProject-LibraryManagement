@@ -1,6 +1,6 @@
 # PythonProject
 
-This project is a basic library management system that would display the menu below and ask the user to choose between the options:
+This project is a basic library management console system that would display the menu below and ask the user to choose between the options:
 
 | 1- Create Employee                  |
 | 2- Create Item                      |
